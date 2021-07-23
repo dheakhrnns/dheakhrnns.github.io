@@ -17,7 +17,7 @@ body {
 }
 
 header {
-	background: url('asset/a.jpg') no-repeat;
+	background: url('assets/a.jpg') no-repeat;
 	background-color: #feda5f;
 	background-blend-mode: multiply;
 	opacity: .9;
